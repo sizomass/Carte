@@ -11,35 +11,31 @@
 
 .infos {
   position: absolute;
-  text-align: left;
-  display: inline-block;
+  text-align: center;
   top: 100px;
-  left: 450px;
+  left: 0px;
+  right: 0px;
   
   
-}
-
-.infos h2 {
-  text-align: center;
-}
-
-.infos h1 {
-  text-align: center;
 }
 
 
 .footer {
   position: absolute;
-  display: inline-block;  
-  top: 450px;
-  left: 50%;
-  
+  display: inline-block; 
+  right: 0px;
+  top: 25em;
+    
 }
+
 .footer img{
-  border-raduis: 0px;
-  height: 50px;
   width: 50px;
-}
+  heigth: 50px;
+  
+ }
+  
+  
+  
   
   
   

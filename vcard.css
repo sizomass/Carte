@@ -1,0 +1,46 @@
+.corps {
+  position : relative;
+  
+}
+
+.logo {
+  position: absolute;
+  
+  
+}
+
+.infos {
+  position: absolute;
+  text-align: left;
+  display: inline-block;
+  top: 100px;
+  left: 450px;
+  
+  
+}
+
+.infos h2 {
+  text-align: center;
+}
+
+.infos h1 {
+  text-align: center;
+}
+
+
+.footer {
+  position: absolute;
+  display: inline-block;  
+  top: 450px;
+  left: 50%;
+  
+}
+.footer img{
+  border-raduis: 0px;
+  height: 50px;
+  width: 50px;
+}
+  
+  
+  
+  

@@ -1,5 +1,6 @@
 .corps {
   position : relative;
+  height: 400px;
   
 }
 
@@ -24,16 +25,16 @@
   position: absolute;
   display: inline-block; 
   right: 0px;
-  top: 25em;
+  bottom: 0;
     
 }
 
 .footer img{
   width: 50px;
-  heigth: 50px;
+  height: 50px;
+  
   
  }
-  
   
   
   
